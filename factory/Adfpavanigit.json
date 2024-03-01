@@ -1,0 +1,9 @@
+{
+	"name": "Adfpavanigit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66b10ae1-c238-456b-8060-66d8d761e51d",
+		"tenantId": "cfcf0cc8-1456-426c-929d-8a21bcc33a2e"
+	}
+}
